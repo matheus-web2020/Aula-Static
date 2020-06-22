@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\SENAI\StaticPOO\bin\Debug\netcoreapp3.1\StaticPOO.exe
+C:\Users\Matheus\Desktop\SENAI\StaticPOO\bin\Debug\netcoreapp3.1\StaticPOO.deps.json
+C:\Users\Matheus\Desktop\SENAI\StaticPOO\bin\Debug\netcoreapp3.1\StaticPOO.runtimeconfig.json
+C:\Users\Matheus\Desktop\SENAI\StaticPOO\bin\Debug\netcoreapp3.1\StaticPOO.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\SENAI\StaticPOO\bin\Debug\netcoreapp3.1\StaticPOO.dll
+C:\Users\Matheus\Desktop\SENAI\StaticPOO\bin\Debug\netcoreapp3.1\StaticPOO.pdb
+C:\Users\Matheus\Desktop\SENAI\StaticPOO\obj\Debug\netcoreapp3.1\StaticPOO.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\SENAI\StaticPOO\obj\Debug\netcoreapp3.1\StaticPOO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\SENAI\StaticPOO\obj\Debug\netcoreapp3.1\StaticPOO.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\SENAI\StaticPOO\obj\Debug\netcoreapp3.1\StaticPOO.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\SENAI\StaticPOO\obj\Debug\netcoreapp3.1\StaticPOO.dll
+C:\Users\Matheus\Desktop\SENAI\StaticPOO\obj\Debug\netcoreapp3.1\StaticPOO.pdb
+C:\Users\Matheus\Desktop\SENAI\StaticPOO\obj\Debug\netcoreapp3.1\StaticPOO.genruntimeconfig.cache
